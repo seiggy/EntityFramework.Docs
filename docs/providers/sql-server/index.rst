@@ -27,7 +27,7 @@ The following resources will help you get started with this provider.
 Supported Database Engines
 --------------------------
 
-  * Microsoft SQL Server (2008 onwards)
+  * Microsoft SQL Server (2008 onwards on Windows, 2008 SP4 onwards on Linux)
 
 Supported Platforms
 -------------------
